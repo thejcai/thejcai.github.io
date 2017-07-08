@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About | Jesse Cai
 permalink: /about/
 ---
